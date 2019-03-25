@@ -1,0 +1,11 @@
+N G S mid final
+pony 1 F 80 96
+kong 1 F 35 45
+popo 3 M 21 87
+totoro 4 M 89 100
+popo 2 F 42 31
+momo 2 M 100 97
+nimo 3 F 34 75
+pororo 1 F 25 29
+pupu 2 M 87 90
+king 3 M 60 65
