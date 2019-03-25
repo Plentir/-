@@ -1,0 +1,1 @@
+﻿jt -t chesterish -kl -N -T -cellw 80% -f ubuntu -fs 125 -nf exosans -nfs 13 -tf exosans -tfs 11 -ofs 11 -dfs 11
